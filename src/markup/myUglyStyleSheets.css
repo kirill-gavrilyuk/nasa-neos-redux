@@ -1,0 +1,17 @@
+#container {
+    border: 1px solid grey;
+}
+
+.header {
+    background: lightgrey;
+}
+
+tr, table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.danger {
+    background: red;
+}
